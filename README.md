@@ -1,2 +1,2 @@
 # odin-recipes
-Web development project from theodinproject.com
+A recipes website for The Odin Project program.
